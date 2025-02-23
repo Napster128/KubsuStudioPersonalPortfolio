@@ -30,6 +30,9 @@
 4. Настройте подключение к базе данных в файле `php/db-connect.php`.
 5. Откройте `index.html` в браузере и наслаждайтесь работой проекта!
 
+## Демо
+Проект доступен онлайн по следующей ссылке: [KubsuStudioPersonalPortfolio](https://napster128.github.io/KubsuStudioPersonalPortfolio/)
+
 ## Контакты
 Если у вас есть вопросы или предложения, свяжитесь со мной через GitHub Issues.
 
